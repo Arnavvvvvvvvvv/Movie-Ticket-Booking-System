@@ -13,10 +13,8 @@ The system allows:
 ## 🛠 Features
 - **OOP-based design** with a dedicated `Seats` class for seat management.
 - **Database integration** with MySQL for real-time seat availability.
-- **Automatic table creation** if it doesn’t exist.
 - **Persistent storage** — reserved seats remain reserved even after restarting the program.
 - **Input validation** for seat number and row number.
-- **Simple CLI menu** for easy navigation.
 
 ---
 
